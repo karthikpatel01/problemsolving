@@ -70,20 +70,4 @@ GitHub: karthikpatel01
 
 ⭐ If you find this repository helpful, don’t forget to star it!
 
-yaml
-Copy code
 
----
-
-### ✅ Tip (Important for recruiters)
-After adding this README:
-- Commit it with message:  
-  **`Added professional README for Java problem solving repository`**
-- Your repo will look **much more professional** 💼
-
-If you want, I can also:
-- Categorize files into folders  
-- Add comments to each Java program  
-- Improve repo for **IBM / Amazon / Internship screening**
-
-Just tell me 👍
